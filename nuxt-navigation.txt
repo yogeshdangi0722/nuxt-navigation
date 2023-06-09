@@ -1,0 +1,3 @@
+* <NuxtLink> component is used to navigate between pages.
+* it renders an <a> tag with href attribute set to the route of the page
+* it intelligently determine whether the link is internal or external and renders it accordingly with available optimizations
